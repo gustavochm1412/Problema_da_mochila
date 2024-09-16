@@ -3,4 +3,4 @@ Um problema de otimização combinatória. O nome dá-se devido ao modelo de uma
 
 
 
-Link para o relatório: https://docs.google.com/document/d/1etPibGD_KDE4eQexKm6gtpBEioBhNRZ9fQv0L7R8Qgo/edit
+
